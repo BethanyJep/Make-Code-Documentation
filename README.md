@@ -8,7 +8,7 @@
 
 MakeCode supports the following learning methods and languages:
 
-- An **interactice simulator** which provides students with immediate feedback on how their program is running and makes it easy to test and debug their code.
+- An **interactive simulator** which provides students with immediate feedback on how their program is running and makes it easy to test and debug their code.
 
 - A **Block Editor** which can be used by students new to coding to construct programs. Colored blocks which can be dragged and dropped onto a workspace are used in this case.
 
@@ -20,7 +20,7 @@ The arcade's interface as shown below consists of the following:
 
 ![image](https://user-images.githubusercontent.com/49791498/139707328-ec5d55f8-c37d-4e87-b79e-9de483da4ca4.png)
 
-- **A game screen:** This is labelled as `1`, on the leftmost part of the screen. It serves as the visual interface to interact with the simulated game. 
+- **A game screen:** This is labelled as `1`, on the leftmost part of the screen. It serves as the visual interface to interact with the simulated game.
 
 - **The code blocks:** This is labelled as `2`. It contains all the code blocks we can use in building our program - grouped into sections.
 
