@@ -4,7 +4,24 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 
 ## Folder Structure
 
-To be added
+```
+│
+├───OUTLINE.md
+│
+├───makecode-docs
+│    │        introduction.md
+│    │
+│    ├───student-docs
+│    |        1. makecode.md
+│    |        2. makecode-arcade.md
+|    |
+│    └───educator-docs
+│             dummyfile.md
+|
+└───hourofcode-docs
+              dummyfile.md
+
+```
 
 ## Getting Started
 
