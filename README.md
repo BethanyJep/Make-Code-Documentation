@@ -9,7 +9,6 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 ├───OUTLINE.md
 │
 ├───makecode-docs
-│    │        introduction.md
 │    │
 │    ├───student-docs
 │    |        1. introduction.md
@@ -20,15 +19,20 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 │             dummyfile.md
 |
 └───hourofcode-docs
-              dummyfile.md
+              introduction.md
 
 ```
 
 ## Getting Started
 
 - [Check the documentation outline](OUTLINE.md)
-- [Get started with Microsoft MakeCode](makecode-docs)
+- [Get started with Microsoft MakeCode docs](makecode-docs)
+  - For Students
+    - hyperlink to be added
+  - For Educators
+    - hyperlink to be added
 - [Get Started with Hour of Code docs](hourofcode-docs)
+  - hyperlink to be added
 
 ## Translation Criteria
 
