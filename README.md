@@ -12,8 +12,9 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 │    │        introduction.md
 │    │
 │    ├───student-docs
-│    |        1. makecode.md
-│    |        2. makecode-arcade.md
+│    |        1. introduction.md
+│    |        2. makecode.md
+│    |        3. makecode-arcade.md
 |    |
 │    └───educator-docs
 │             dummyfile.md
