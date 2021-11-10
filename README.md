@@ -6,6 +6,7 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 
 ```
 │
+├───README.md
 ├───OUTLINE.md
 │
 ├───makecode-docs

@@ -1,6 +1,6 @@
 ![makeCode](assets/outline-cover.png)
 
-Source: [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/rocket-fast-embedded-typescript-for-makecode-arcade/)
+<em>Source: [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/rocket-fast-embedded-typescript-for-makecode-arcade/) </em>
 
 # 🧾 Documentation Outline
 
