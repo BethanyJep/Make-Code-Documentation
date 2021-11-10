@@ -17,7 +17,7 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 │    |        3. makecode-arcade.md
 |    |
 │    └───educator-docs
-│             dummyfile.md
+│             1. makecode-for-classroom.md
 |
 └───hourofcode-docs
               introduction.md
