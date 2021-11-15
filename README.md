@@ -1,5 +1,5 @@
 # MakeCode-Documentation
-![Makecode documentation image](https://github.com/BethanyJep/Make-Code-Documentation/blob/main/assets/Doc%20Header.png?raw=true)
+![Makecode documentation image](https://github.com/BethanyJep/Make-Code-Documentation/blob/hourofcode/assets/Doc%20Header.jpg?raw=true)
 
 Welcome! This repository contains documentation for [Microsoft MakeCode](https://www.microsoft.com/en-us/makecode) and [Hour of Code](https://hourofcode.com/) as the part of **Microsoft Education Content Development** Pilot by [Gold Microsoft Learn Student Ambassadors](https://studentambassadors.com).
 
