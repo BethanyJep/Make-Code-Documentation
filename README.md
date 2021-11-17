@@ -20,9 +20,19 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 │    └───educator-docs
 │             1. makecode-for-classroom.md
 |
-└───hourofcode-docs
-              introduction.md
-
+├───hourofcode-docs
+│    │
+│    ├───Getting Started with Hour of Code
+│    |        1. introduction.md
+│    |        2. learners guide.md
+│    |        3. parent-teacher.md
+|    |
+│    └───Microsoft Hour of Code Challenge
+│             1. introduction.md
+│             2. 2020.md
+│             3. 2021.md
+│             3. conclusion.md
+│
 ```
 
 ## Getting Started
@@ -34,7 +44,8 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
   - For Educators
     - hyperlink to be added
 - [Get Started with Hour of Code docs](hourofcode-docs)
-  - hyperlink to be added
+  - Getting Started with Hour of Code
+  - Microsoft Hour of Code Challenge
 
 ---
 
@@ -62,5 +73,5 @@ In essence, it aims to bring a seamless teamwork experience for the ambassadors 
 ---
 
 ## Meet the Authors
+Huge thanks and gratitude to our authors Anjum Rashid, Bethany Jepchumba, Aditya Oberai, Chioma Mbaoma, Rohit Yadav and Arpita Das.
 
-team profiles grid to be added
