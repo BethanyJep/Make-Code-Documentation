@@ -45,6 +45,7 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
     - hyperlink to be added
 - [Get Started with Hour of Code docs](hourofcode-docs)
   - Getting Started with Hour of Code
+    - `learners guide.md`
   - Microsoft Hour of Code Challenge
 
 ---
@@ -53,9 +54,9 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 
 contribution guideline to be added
 
-## Translation Criteria
+<!-- ## Translation Criteria
 
-To be added
+To be added -->
 
 ---
 
