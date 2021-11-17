@@ -13,15 +13,25 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 │    │
 │    ├───student-docs
 │    |        1. introduction.md
-│    |        2. makecode.md
-│    |        3. makecode-arcade.md
+│    |        2. makecode-platform.md
+│    |        3. makecode-domains.md
+|    |        4. makecode-arcade.md
 |    |
 │    └───educator-docs
 │             1. makecode-for-classroom.md
 |
 └───hourofcode-docs
+    │   Conclusion.md
+    │   introduction.md
+    │
+    ├───Getting Started with Hour of Code
+    │         learners guide.md
+    │         parent-teacher guide.md
+    │
+    └───Microsoft Hour of Code Challenge
+              2020.md
+              2021.md
               introduction.md
-
 ```
 
 ## Getting Started
@@ -29,9 +39,12 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 - [Check the documentation outline](OUTLINE.md)
 - [Get started with Microsoft MakeCode docs](makecode-docs)
   - For Students
-    - hyperlink to be added
+    - [Introduction](/makecode-docs/student-docs/1.%20introduction.md)
+    - [MakeCode Platform](/makecode-docs/student-docs/2.%20makecode-platform.md)
+    - [MakeCode Domains](/makecode-docs/student-docs/3.%20makecode-domains.md)
+    - [MakeCode Arcade](/makecode-docs/student-docs/4.%20makecode-arcade.md)
   - For Educators
-    - hyperlink to be added
+    - [MakeCode for Classroom](/makecode-docs/educator-docs/1.%20makecode-for-classroom.md)
 - [Get Started with Hour of Code docs](hourofcode-docs)
   - hyperlink to be added
 
@@ -39,11 +52,13 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 
 ## Contribution
 
-contribution guideline to be added
+Contributions are welcome! Feel free to create a PR if you find any anamolies or typos. For suggesting a full new section, please create an issue for topic.
+
+Follow the [Contribution Guideline](/CONTRIBUTION.md) first before creating a PR.
 
 ## Translation Criteria
 
-To be added
+If you would like to translate all or part of the documentation, please follow our [Translations](/TRANSLATIONS.md) guide.
 
 ---
 
@@ -62,4 +77,9 @@ In essence, it aims to bring a seamless teamwork experience for the ambassadors 
 
 ## Meet the Authors
 
-team profiles grid to be added
+- Bethany Jepchumba
+- Anjum Rashid​
+- Chioma Mbaoma​
+- Rohit Yadav​
+- Aditya Oberai​
+- Arpita Das
