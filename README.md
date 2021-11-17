@@ -44,7 +44,7 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
     - [MakeCode Domains](/makecode-docs/student-docs/3.%20makecode-domains.md)
     - [MakeCode Arcade](/makecode-docs/student-docs/4.%20makecode-arcade.md)
   - For Educators
-    - MakeCode for Classroom
+    - [MakeCode for Classroom](/makecode-docs/educator-docs/1.%20makecode-for-classroom.md)
 - [Get Started with Hour of Code docs](hourofcode-docs)
   - hyperlink to be added
 
