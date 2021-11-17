@@ -39,10 +39,10 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 - [Check the documentation outline](OUTLINE.md)
 - [Get started with Microsoft MakeCode docs](makecode-docs)
   - For Students
-    - Introduction
-    - MakeCode Platform
-    - MakeCode Domains
-    - MakeCode Arcade
+    - [Introduction](/makecode-docs/student-docs/1.%20introduction.md)
+    - [MakeCode Platform](/makecode-docs/student-docs/2.%20makecode-platform.md)
+    - [MakeCode Domains](/makecode-docs/student-docs/3.%20makecode-domains.md)
+    - [MakeCode Arcade](/makecode-docs/student-docs/4.%20makecode-arcade.md)
   - For Educators
     - MakeCode for Classroom
 - [Get Started with Hour of Code docs](hourofcode-docs)
