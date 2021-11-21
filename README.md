@@ -22,17 +22,17 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 │             1. makecode-for-classroom.md
 |
 └───hourofcode-docs
-    │   Introduction.md
+    │   Conclusion.md
+    │   introduction.md
     │
     ├───Getting Started with Hour of Code
-    │         1. learners guide.md
-    │         2. parent-teacher guide.md
+    │         learners guide.md
+    │         parent-teacher guide.md
     │
-    ├───Microsoft Hour of Code Challenge
-    │         1.  2020.md
-    │         2.  2021.md
-    │         3.  introduction.md
-    └───Conclusion.md
+    └───Microsoft Hour of Code Challenge
+              2020.md
+              2021.md
+              introduction.md
 ```
 
 ## Getting Started
