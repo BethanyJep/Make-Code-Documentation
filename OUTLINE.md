@@ -29,7 +29,7 @@
 ## 🚩 Hour of Code
 
 1. **Introduction:** What is hour of code? Why should people be interested in this? Lastly, impact made by hour of code.
-1. Quick get started guide
+1. Quiet started guide
 
    - FAQs
    - [How to organize Hour of Code](https://hourofcode.com/us/how-to)
