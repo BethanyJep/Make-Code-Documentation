@@ -21,6 +21,7 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 |    |
 │    └───educator-docs
 │             1. makecode-for-classroom.md
+|             2. makecode-edu-at-a-glance.md
 |
 └───hourofcode-docs
     │   Conclusion.md
@@ -47,6 +48,7 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
     - [MakeCode Arcade](/makecode-docs/student-docs/4.%20makecode-arcade.md)
   - For Educators
     - [MakeCode for Classroom](/makecode-docs/educator-docs/1.%20makecode-for-classroom.md)
+    - [MakeCode Education at a Glance](/makecode-docs/educator-docs/2.%20makecode-edu-at-a-glance.md)
 - [Get Started with Hour of Code docs](hourofcode-docs)
   - hyperlink to be added
 
