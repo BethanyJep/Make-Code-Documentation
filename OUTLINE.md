@@ -10,18 +10,15 @@
 
 1. **For students**
 
-   - What is MakeCode and one-line introduction of the **seven domains** that make up the MakeCode ecosystem
-   - MakeCode arcade introduction
-   - Featuring one or two highlighted projects ( listed in [Project Ideas ](https://www.microsoft.com/en-us/makecode/about)section )
-   - Overview of some cool [MakeCode Arcade supported boards](https://arcade.makecode.com/hardware) for retro gaming
-   - A section on [love to code](https://get.chibitronics.com/lovetocode-vol1-makecode.pdf) ebook
+   - Intro to CS and the need for block based coding
+   - What is MakeCode platform and what does it offer
+   - One-line introductions of the **seven domains** that make up the MakeCode ecosystem
+   - MakeCode Arcade introduction
 
 1. **For Educators**
 
    - How MakeCode can be incorporated [in the classroom](https://www.microsoft.com/en-us/makecode/about)
-   - Review on any of the class courses under [Resources ](https://www.microsoft.com/en-us/makecode/resources)
-   - **MS x Academia** [collab research projects](http://makecode.com/labs) using MakeCode
-   - Something interesting salvaged from [MakeCode blog](https://makecode.com/blog)
+   - MakeCode Education at a glance
    - How [MakeCode PXT](https://github.com/microsoft/pxt) framework can be used to create visual programming platform for CS education
 
 ---
