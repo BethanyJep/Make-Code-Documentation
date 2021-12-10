@@ -47,7 +47,15 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
   - For Educators
     - [MakeCode for Classroom](/makecode-docs/educator-docs/1.%20makecode-for-classroom.md)
 - [Get Started with Hour of Code docs](hourofcode-docs)
-  - hyperlink to be added
+  - [Introduction](/hourofcode-docs/introduction.md)
+  - [Learners Guide](/hourofcode-docs/Getting%20Started%20with%20Hour%20of%20Code/learners%20guide.md)
+  - [Parent-teacher guide](/hourofcode-docs/Getting%20Started%20with%20Hour%20of%20Code/parent-teacher%20guide%20intro.md)
+  - [Educators Guide](/hourofcode-docs/Getting%20Started%20with%20Hour%20of%20Code/educators%20guide.md)
+  - [Microsoft Hour of Code Challenge](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge)
+    - [Introduction.md](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge/introduction.md)
+    - [2020.md](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge/2020.md)
+    - [2021.md](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge/2021.md)
+  - [Conclusion](/hourofcode-docs/Conclusion.md)
 
 ---
 

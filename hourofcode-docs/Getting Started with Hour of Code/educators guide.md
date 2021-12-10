@@ -23,4 +23,4 @@ In addition to Code.org's courses, educators can use their App Lab and Game Lab 
 * [CS Journeys *(New!)*](https://code.org/csjourneys): Bring CS to life and help students make real world connections to what they're learning. Empower them to continue their CS journeys with these resources
 * [AI Module *(New!)*](https://studio.code.org/s/aiml-2021): Students will learn the fundamentals of artificial intelligence and machine learning and discuss their implications. Suitable for grades 6-12
 
-All this information can be found [here](https://studio.code.org/courses?view=teacher).
+> All this information can be found [here](https://studio.code.org/courses?view=teacher).
