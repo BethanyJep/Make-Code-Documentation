@@ -1,10 +1,11 @@
 # Hour of Code
 
 ## What and When is the Hour of Code
+<p align="center"> <img alt="Intro to Programming" src="../assets/Hour of code website.png" width="600px" /><br><em>Source: <a href="https://hourofcode.com/us">Hour of Code Website</a></em></p>
 
 [**Hour of Code**](https://hourofcode.com) is a global movement run by [**Code.org**](https://code.org) that is aimed at expanding access of Computer Science education to all people across the world in a fun way through hour-long tutorials. Since its inception in 2013, the Hour of Code initiative has impacted millions of students in 180+ countries across the globe by helping them get their start in the world of programming and computer science.
 
-For the year 2021, the celebration will take place between 6-12 December. The dates are in line with the **Computer Science Education Week**, however, you can host the session anytime.
+> For the year 2021, the celebration will take place between 6-12 December. The dates are in line with the **Computer Science Education Week**, however, you can host the session anytime.
 
 ## Why should I participate in the Hour of Code
 
