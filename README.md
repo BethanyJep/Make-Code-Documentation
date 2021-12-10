@@ -44,7 +44,7 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 
 - [Get started with Microsoft MakeCode docs](makecode-docs)
   - For Students
-    - [Introduction](/makecode-docs/student-docs/1.%20introduction.md)
+    - [Introduction](\makecode-docs\student-docs\1.%20introduction.md)
     - [MakeCode Platform](/makecode-docs/student-docs/2.%20makecode-platform.md)
     - [MakeCode Domains](/makecode-docs/student-docs/3.%20makecode-domains.md)
     - [MakeCode Arcade](/makecode-docs/student-docs/4.%20makecode-arcade.md)
@@ -54,13 +54,13 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
     - [MakeCode for Development](/makecode-docs/educator-docs/3.%20makecode-for-development.md)
 - [Get Started with Hour of Code docs](hourofcode-docs)
   - [Introduction](/hourofcode-docs/introduction.md)
-  - [Learners Guide](/hourofcode-docs/Getting%20Started%20with%20Hour%20of%20Code/learners%20guide.md)
+  - [Learners Guide](\hourofcode-docs\Getting%20Started%20with%20Hour%20of%20Code\learners%20guide.md)
   - [Parent-teacher guide](/hourofcode-docs/Getting%20Started%20with%20Hour%20of%20Code/parent-teacher%20guide%20intro.md)
   - [Educators Guide](/hourofcode-docs/Getting%20Started%20with%20Hour%20of%20Code/educators%20guide.md)
   - [Microsoft Hour of Code Challenge](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge)
-    - [Introduction.md](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge/introduction.md)
-    - [2020.md](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge/2020.md)
-    - [2021.md](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge/2021.md)
+    - [Introduction](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge/introduction.md)
+    - [2020 Hour of Code Challenge](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge/2020.md)
+    - [2021 Hour of Code Challenge](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge/2021.md)
   - [Conclusion](/hourofcode-docs/Conclusion.md)
 
 ---
