@@ -25,22 +25,23 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 |             3. makecode-for-development.md
 |
 └───hourofcode-docs
-    │   Conclusion.md
-    │   introduction.md
+    │   Introduction.md
     │
     ├───Getting Started with Hour of Code
-    │         learners guide.md
-    │         parent-teacher guide.md
+    │         1. learners guide.md
+    │         2. parent-teacher guide.md
     │
-    └───Microsoft Hour of Code Challenge
-              2020.md
-              2021.md
-              introduction.md
+    ├───Microsoft Hour of Code Challenge
+    │         1.  2020.md
+    │         2.  2021.md
+    │         3.  introduction.md
+    └───Conclusion.md
 ```
 
 ## Getting Started
 
-- [Check the documentation outline](OUTLINE.md)
+> ### Go through the [Documentation Outline](OUTLINE.md) and get started right away.
+
 - [Get started with Microsoft MakeCode docs](makecode-docs)
   - For Students
     - [Introduction](/makecode-docs/student-docs/1.%20introduction.md)
@@ -52,7 +53,15 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
     - [MakeCode Education at a Glance](/makecode-docs/educator-docs/2.%20makecode-edu-at-a-glance.md)
     - [MakeCode for Development](/makecode-docs/educator-docs/3.%20makecode-for-development.md)
 - [Get Started with Hour of Code docs](hourofcode-docs)
-  - hyperlink to be added
+  - [Introduction](/hourofcode-docs/introduction.md)
+  - [Learners Guide](/hourofcode-docs/Getting%20Started%20with%20Hour%20of%20Code/learners%20guide.md)
+  - [Parent-teacher guide](/hourofcode-docs/Getting%20Started%20with%20Hour%20of%20Code/parent-teacher%20guide%20intro.md)
+  - [Educators Guide](/hourofcode-docs/Getting%20Started%20with%20Hour%20of%20Code/educators%20guide.md)
+  - [Microsoft Hour of Code Challenge](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge)
+    - [Introduction.md](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge/introduction.md)
+    - [2020.md](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge/2020.md)
+    - [2021.md](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge/2021.md)
+  - [Conclusion](/hourofcode-docs/Conclusion.md)
 
 ---
 
@@ -62,9 +71,9 @@ Contributions are welcome! Feel free to create a PR if you find any anamolies or
 
 Follow the [Contribution Guideline](/CONTRIBUTION.md) first before creating a PR.
 
-## Translation Criteria
+## Translation
 
-If you would like to translate all or part of the documentation, please follow our [Translations](/TRANSLATIONS.md) guide.
+If you would like to translate all or part of the documentation, please follow our [Translations Guide](/TRANSLATIONS.md).
 
 ---
 

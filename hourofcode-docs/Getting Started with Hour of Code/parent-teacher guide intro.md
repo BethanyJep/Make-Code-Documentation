@@ -8,7 +8,9 @@ As a parent/educator, there are so many ways you can get involved with hour of c
 - Discover the power of code in solving problems and building solutions. - social and economic equality.
 - Soft skills and transferrable skills. - adaptability and flexibility, pushing boundaries case, COVID-19.
 
-Hour of Code is an opportunity to introduce learners from all over the world to Computer Science basics. Regardless, of your background, race, gender and age, anyone can participate in the sessons. - https://code.org/help
+Hour of Code is an opportunity to introduce learners from all over the world to Computer Science basics. Regardless, of your background, race, gender and age, anyone can participate in the sessons.
+
+<p align="center"> <img alt="Course Catalog" src="../../assets/parent-teacher HOC.png" width="1000px" /></p>
 
 * Organize an Hour of Code challenge - school, work, teach your own kids etc.
 * Translate Hour of Code Tutorials
