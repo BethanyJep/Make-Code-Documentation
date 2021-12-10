@@ -40,7 +40,8 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 
 ## Getting Started
 
-- [Check the documentation outline](OUTLINE.md)
+### > Go through the [documentation outline](OUTLINE.md) and get started right away.
+
 - [Get started with Microsoft MakeCode docs](makecode-docs)
   - For Students
     - [Introduction](/makecode-docs/student-docs/1.%20introduction.md)
@@ -62,9 +63,9 @@ Contributions are welcome! Feel free to create a PR if you find any anamolies or
 
 Follow the [Contribution Guideline](/CONTRIBUTION.md) first before creating a PR.
 
-## Translation Criteria
+## Translation
 
-If you would like to translate all or part of the documentation, please follow our [Translations](/TRANSLATIONS.md) guide.
+If you would like to translate all or part of the documentation, please follow our [Translations Guide](/TRANSLATIONS.md).
 
 ---
 
