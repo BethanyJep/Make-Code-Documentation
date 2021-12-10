@@ -40,7 +40,7 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 
 ## Getting Started
 
-### > Go through the [documentation outline](OUTLINE.md) and get started right away.
+> ### Go through the [Documentation Outline](OUTLINE.md) and get started right away.
 
 - [Get started with Microsoft MakeCode docs](makecode-docs)
   - For Students
