@@ -18,4 +18,4 @@ Here are some actvities you can engage in:
 * What activities can you engage in to promote Hour of Code?
 * How can use utilize technology, specifically Hour of Code, to solve societal problems?
 
-[Next](readme.md)
+[Next](README.md)
