@@ -12,7 +12,7 @@ As a parent/educator, there are so many ways you can get involved with hour of c
 
 Hour of Code is an opportunity to introduce learners from all over the world to Computer Science basics. Regardless, of your background, race, gender and age, anyone can participate in the sessons.
 
-<p align="center"> <img alt="Course Catalog" src="../../assets/parent-teacher HOC.png" width="1000px" /></p>
+![Parent-teacher guide](https://github.com/BethanyJep/Makeocode-images/blob/main/parent-teacher%20HOC.png?raw=true)
 
 * Organize an Hour of Code challenge - school, work, teach your own kids etc.
 * Translate Hour of Code Tutorials

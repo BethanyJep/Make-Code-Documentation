@@ -3,7 +3,8 @@
 # Hour of Code
 
 ## What and When is the Hour of Code
-<p align="center"> <img alt="Intro to Programming" src="../assets/Hour of code website.png" width="600px" /><br><em>Source: <a href="https://hourofcode.com/us">Hour of Code Website</a></em></p>
+![What is Hour of Code](https://github.com/BethanyJep/Makeocode-images/blob/main/Hour%20of%20code%20website.png?raw=true)
+<p align="center"><em>Source: <a href="https://hourofcode.com/us">Hour of Code Website</a></em></p>
 
 [**Hour of Code**](https://hourofcode.com) is a global movement run by [**Code.org**](https://code.org) that is aimed at expanding access of Computer Science education to all people across the world in a fun way through hour-long tutorials. Since its inception in 2013, the Hour of Code initiative has impacted millions of students in 180+ countries across the globe by helping them get their start in the world of programming and computer science.
 

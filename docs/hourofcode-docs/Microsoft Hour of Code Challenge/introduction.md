@@ -2,7 +2,7 @@
 
 # Microsoft Hour of Code Challenge
 
-<p align="center"> <img alt="Microsoft Hour of Code" src="../../assets/microsoft HOC.png" width="1000px" /></p>
+![Hour of Code 2021](https://github.com/BethanyJep/Makeocode-images/blob/main/microsoft%20HOC.png?raw=true)
 
 
 From 2020, as part of Hour of Code celebrations, Microsoft enables one to design and code retro arcade games. The [documentation](https://arcade.makecode.com/hour-of-code/all) provides ways in which you can interact and learn.

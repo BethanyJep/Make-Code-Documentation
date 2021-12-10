@@ -8,7 +8,9 @@ We have covered what Hour of Code entails and how you can participate in the arr
 Here are some actvities you can engage in:
 * Follow up with learners on their progress. Learners can continue building games and submit their projects in the upcoming [Global MakeCode Arcade Jam](https://aka.ms/ArcadeGJ)
 
-<p align="center"> <img alt="Intro to Programming" src="../assets/global game jam.png" width="1000px" /><br><em>Source: <a href="https://aka.ms/ArcadeGJ">Global Arcade Game Jam</a></em></p>
+![Global Game Jam](https://github.com/BethanyJep/Makeocode-images/blob/main/global%20game%20jam.png?raw=true)
+
+<p align="center"><em>Source: <a href="https://aka.ms/ArcadeGJ">Global Arcade Game Jam</a></em></p>
 
 * Share about #HourOfCode, highlighting all the impact you would have made
 * Facilitate and organize more computer science sessions beyond computer science week
