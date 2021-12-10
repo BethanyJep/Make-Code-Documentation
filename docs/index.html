@@ -16,6 +16,9 @@
       name: '',
       repo: ''
     }
+    hook.beforeEach(function(content) {
+            return content.replace(/..\/..\/img/g, "img");
+          })
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
