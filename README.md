@@ -42,7 +42,7 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 
 > ### Go through the [Documentation Outline](OUTLINE.md) and get started right away.
 
-- [Get started with Microsoft MakeCode docs](makecode-docs)
+- Get started with Microsoft MakeCode - Docs
   - For Students
     - [Introduction](/makecode-docs/student-docs/1.%20introduction.md)
     - [MakeCode Platform](/makecode-docs/student-docs/2.%20makecode-platform.md)
@@ -52,7 +52,7 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
     - [MakeCode for Classroom](/makecode-docs/educator-docs/1.%20makecode-for-classroom.md)
     - [MakeCode Education at a Glance](/makecode-docs/educator-docs/2.%20makecode-edu-at-a-glance.md)
     - [MakeCode for Development](/makecode-docs/educator-docs/3.%20makecode-for-development.md)
-- [Get Started with Hour of Code docs](hourofcode-docs)
+- Get Started with Hour of Code - Docs
   - [Introduction](/hourofcode-docs/introduction.md)
   - [Learners Guide](/hourofcode-docs/Getting%20Started%20with%20Hour%20of%20Code/learners%20guide.md)
   - [Parent-teacher guide](/hourofcode-docs/Getting%20Started%20with%20Hour%20of%20Code/parent-teacher%20guide%20intro.md)
