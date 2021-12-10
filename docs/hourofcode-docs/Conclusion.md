@@ -1,3 +1,5 @@
+[Back](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge/2021.md)
+
 # Conclusion
 
 We have covered what Hour of Code entails and how you can participate in the arrays of challenges available. What next? After participating in hour of code, what other activities can you take part in?
@@ -15,3 +17,5 @@ Here are some actvities you can engage in:
 ## Reflections
 * What activities can you engage in to promote Hour of Code?
 * How can use utilize technology, specifically Hour of Code, to solve societal problems?
+
+[Next](readme.md)

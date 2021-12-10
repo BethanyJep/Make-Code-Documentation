@@ -1,3 +1,5 @@
+[Back](/hourofcode-docs/Getting%20Started%20with%20Hour%20of%20Code/learners%20guide.md)
+
 # Getting Started with Hour of Code as a Parent/Educator
 As a parent/educator, there are so many ways you can get involved with hour of code. You can enable your children/students to take their first steps with code. The first hour of code challenge took place in 2013, and every year, the movement keeps growing. Below are ways you as a parent or educator can get started with hour of code.
 
@@ -36,3 +38,4 @@ As you plan your event, this are important considerations that you should have a
 ### Engaging with Microsoft Hour of Code activities
 For the past one year, Microsoft has created a documentation on the Hour of Code Activities you can engage in on it's arcade. There are different activities you can be involved in. We will outline how you can deep dive into the activities in the next section.
 
+[Next](/hourofcode-docs/Getting%20Started%20with%20Hour%20of%20Code/educators%20guide.md)

@@ -1,3 +1,5 @@
+[Back](readme.md)
+
 # Contribution Guideline
 
 This project is open to contibutions and suggestions. Before making changes to the repositoty, please first discuss the change you wish to make by raising an issue which will then be approved by the project authors.
@@ -14,3 +16,5 @@ Refer to the following process once your issue is accepted:
 > NOTE: ensure you indicate the issue you are resolving as you submit your pull request.
 
 As you make your contribution, you grant us the rights to use your contribution.
+
+[Back](readme.md)

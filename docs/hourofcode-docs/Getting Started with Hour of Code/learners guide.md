@@ -1,3 +1,5 @@
+[Back](/hourofcode-docs/introduction.md)
+
 # Join Hour of Code as a Learner
 
 The special aspect of the Hour of Code campaign is that it is an opportunity open to all people, regardless of their backgrounds. However, in order to simplify the experience of newer learners, the Code.org team classifies the courses based on the class a student might be in. The classification is done as follows:
@@ -11,3 +13,5 @@ The special aspect of the Hour of Code campaign is that it is an opportunity ope
 These allow students to access the entire catalogue of courses from Code Studio as well as all of Code.org's 3rd party partners.
 
 > All this information can be found [here](https://studio.code.org/courses).
+
+[Next](/hourofcode-docs/Getting%20Started%20with%20Hour%20of%20Code/parent-teacher%20guide%20intro.md)

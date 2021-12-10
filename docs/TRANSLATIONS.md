@@ -1,3 +1,5 @@
+[Back](readme.md)
+
 # Translation Guideline
 
 ### We strongly promote diversity and inclusion and so, we welcome documentation localization in any language by contributors from any background.
@@ -32,3 +34,5 @@ Do not translate the following directories.
 assets/
 .git/
 ```
+
+[Back](readme.md)

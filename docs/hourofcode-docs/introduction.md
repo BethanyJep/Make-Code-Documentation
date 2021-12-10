@@ -1,3 +1,5 @@
+[Back](readme.md)
+
 # Hour of Code
 
 ## What and When is the Hour of Code
@@ -14,3 +16,5 @@ Learning computer science skills greatly impacts children's problem solving skil
 ## Top Hour of Code Impact and Highlights
 
 The Hour of Code has a tangible impact on people's lives, introducing them to this amazing world of computers and technology. One such example is Aditya Oberai, a Gold Microsoft Learn Student Ambassador from India, who started his computer programming journey during the 1st edition of Hour of Code in 2013. Aditya remembers playing around with the block programming interface on Code.org's platform to move around characters from the games *Angry Birds* and *Plants vs Zombies*, not realizing that he was being exposed to the concept of algorithms. That experience heavily influenced Aditya's perspective of technology, allowing him to perceive it as a tool that anyone could enjoy with while benefitting from. Aditya's journey with Hour of Code came a round circle, when his team comprising his fellow Gold Microsoft Learn Student Ambassadors Simran Makhija, EKansh Gupta and him created an activity that was officially selected as a featured activity in the Hour of Code 2020 campaign.
+
+[Next](/hourofcode-docs/Getting%20Started%20with%20Hour%20of%20Code/learners%20guide.md)
