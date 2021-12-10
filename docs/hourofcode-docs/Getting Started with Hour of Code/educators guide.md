@@ -27,4 +27,4 @@ In addition to Code.org's courses, educators can use their App Lab and Game Lab 
 
 > All this information can be found [here](https://studio.code.org/courses?view=teacher).
 
-[Back](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge/introduction.md)
+[Next](/hourofcode-docs/Microsoft%20Hour%20of%20Code%20Challenge/introduction.md)
