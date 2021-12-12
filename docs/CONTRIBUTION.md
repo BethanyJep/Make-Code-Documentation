@@ -1,4 +1,4 @@
-[Back](readme.md)
+[Back](../readme.md)
 
 # Contribution Guideline
 
@@ -17,4 +17,4 @@ Refer to the following process once your issue is accepted:
 
 As you make your contribution, you grant us the rights to use your contribution.
 
-[Back](readme.md)
+[Back](../readme.md)
