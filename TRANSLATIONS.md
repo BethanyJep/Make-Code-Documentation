@@ -7,7 +7,7 @@
 Before going for translating a topic, always make sure —
 
 - The intended topic hasn't already been translated to the target language by anyone else
-- You have filed an isssue on the repository for the translation request and it has been approved
+- You have filed an issue on the repository for the translation request and it has been approved
 - You are well aware of the Git and GitHub basics including but not limited to forking, branching, issue filing, PR submitting etc.
 
 > 📝 Files with wrong encodings can cause massive trouble. Save the translations files with the correct **UTF-8** encoding.
