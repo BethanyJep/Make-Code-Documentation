@@ -4,7 +4,7 @@
 
 Welcome! This repository contains documentation for [Microsoft MakeCode](https://www.microsoft.com/en-us/makecode) and [Hour of Code](https://hourofcode.com/) as the part of **Microsoft Education Content Development** Pilot by [Gold Microsoft Learn Student Ambassadors](https://studentambassadors.com).
 
-## Folder Structure
+## 📜 Folder Structure
 
 ```
 │
@@ -67,36 +67,36 @@ Welcome! This repository contains documentation for [Microsoft MakeCode](https:/
 |    15    |                                      [Conclusion](/hourofcode-docs/Conclusion.md)                                      |        N/A        |                 Next Steps                 |     Bethany Jepchumba                          |
 ---
 
-## Contribution
+## 🤝 Contribution
 
 Contributions are welcome! Feel free to create a PR if you find any anamolies or typos. For suggesting a full new section, please create an issue for topic.
 
 Follow the [Contribution Guideline](/CONTRIBUTION.md) first before creating a PR.
 
-## Translation
+## 🗣  Translation
 
 If you would like to translate all or part of the documentation, please follow our [Translations Guide](/TRANSLATIONS.md).
 
 ---
 
-## About Education Content Development Project
+## 💼 About Education Content Development Project
 
 Under **Community Projects Initiative**, 'Content Development for Education' is 6-week long Education-themed pilot project to develop technical learning documentation that helps a population of early-stage learners and educators better understand how to get started with a Microsoft product.
 
 The project is piloted by the Gold Ambassadors to build contents for [Microsoft MakeCode](https://www.microsoft.com/en-us/makecode) platform and [Hour of Code](https://hourofcode.com/) initiative.
 
-## About Community Projects Initiative
+## 📣 About Community Projects Initiative
 
 An initiative intended to kickstart project based engagements under **Social Impact** Leagues in _Microsoft Learn Student Ambassadors_ program. It offers the tracks of _Content Development_, _Project Sprint_ and _Workshop Development_.
 In essence, it aims to bring a seamless teamwork experience for the ambassadors community.
 
 ---
 
-## Meet the Authors
+## ⭐ Meet the Authors
 
-- Bethany Jepchumba
-- Anjum Rashid​
-- Chioma Mbaoma​
-- Rohit Yadav​
-- Aditya Oberai​
-- Arpita Das
+- [Bethany Jepchumba](https://www.linkedin.com/in/bethany-jep/)
+- [Anjum Rashid​](https://www.linkedin.com/in/anjum-rashid/)
+- [Chioma Mbaoma​](https://www.linkedin.com/in/mbaoma-chioma-mary/)
+- [Rohit Yadav​](https://www.linkedin.com/in/rty2423/)
+- [Aditya Oberai​](https://www.linkedin.com/in/adityaoberai1/)
+- [Arpita Das](https://www.linkedin.com/in/arpitadas01/)
